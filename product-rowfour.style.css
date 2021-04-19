@@ -1,0 +1,15 @@
+.product-rowfour-container{
+    width: 95%;
+    margin:0 auto;
+    min-height: 25px;
+    border: 2px solid red;
+    margin-top: 5px;
+    text-align: left;
+    text-indent: 2%;
+
+}
+.product-rowfour-container h {
+    
+    color: red; 
+    font-weight: 700;
+ }
